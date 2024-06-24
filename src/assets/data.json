@@ -1,0 +1,17 @@
+{
+  "categories": ["Performance", "Investments", "Operations"],
+  "applets": [
+    {
+      "name": "Performance Snapshot",
+      "categories": ["Performance"]
+    },
+    {
+      "name": "Commitment Widget",
+      "categories": ["Investments"]
+    },
+    {
+      "name": "CMS",
+      "categories": ["Investments", "Performance"]
+    }
+  ]
+}
